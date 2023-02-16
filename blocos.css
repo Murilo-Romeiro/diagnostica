@@ -1,0 +1,64 @@
+.blocos{
+    margin-top: 100px;
+    display: grid;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    width: 900px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+body{
+    background-color: #47065a;
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    font-size: xxx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: pink;
+}
+
+a{
+    margin: 5px;
+    color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.sambodromo{
+    border: 2px solid rgb(167, 147, 255);
+    border-radius: 15px;
+    margin: 5px;
+}
+.onodi{
+    border: 2px solid rgb(167, 147, 255);
+    border-radius: 15px;
+    margin: 5px;
+}
+.sujos{
+    border: 2px solid rgb(167, 147, 255);
+    border-radius: 15px;
+    margin: 5px;
+}
+.santo{
+    border: 2px solid rgb(167, 147, 255);
+    border-radius: 15px;
+    margin: 5px;
+}
+
+p{
+    margin: 15px;
+}
+
+h2{
+    margin: 15px;
+}

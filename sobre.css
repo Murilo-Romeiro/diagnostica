@@ -1,0 +1,46 @@
+.sobre {
+    text-align: center;
+    display: grid;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: x-large;
+    border: 2px solid rgb(167, 147, 255);
+}
+body{
+    background-color: #4c0760;
+}
+p{
+    text-align: justify;
+    padding: 20px;
+    margin-top: 10px;
+}
+header{
+    text-align: center;
+}
+
+h1{
+    font-size: xxx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: pink;
+}
+
+a{
+    margin: 5px;
+    color: pink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    margin-right: 40px;
+}
+
+.titulo{
+    color: white;
+    margin-bottom: 5px;
+}
